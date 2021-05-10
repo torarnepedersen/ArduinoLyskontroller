@@ -4,18 +4,31 @@ Prosjektet ble laget for en russebuss, og er også brukt i undervisning om Ardui
 
 Totalt utstyr brukt:
 1 Arduino Uno
+
 1 DMX shield for Arduino Uno 
+
 1 SSR (solid state relay)
+
 4 ws2812b LED-striper på totalt 595 LEDs.
-3 DMX-kabler. (Merk, dette er ikke det samme som audio XLR, selv om kablene ser like ut) 
+
+3 DMX-kabler. (Merk, dette er ikke det samme som audio XLR, selv om kablene ser like ut)
+ 
 1 DMX-terminator (laget av en DMX-plugg og en 120 ohm motstand) 
+
 1 Scandlight TL-GBC laser
+
 1 BriTeq BT-MAGICFLASH strobe
+
 1 American DJ Nucleus Pro LED (diskolampe med 6 "armer") 
+
 1 ProLights PHYRO 500 røykmaskin 
+
 1 strømforsyning, gjenbrukt fra en PC 
+
 Noen meter TP-kabel
+
 En liten neve koblingsklemmer
+
 En tube glassklar Tec7 (for å innkapsle LEDs nede ved gulv, det kan jo fort bli litt søl og spark i en russebuss) 
 
 Røykmaskin er modifisert ved at knapp for røyk er erstattet av rele. 
