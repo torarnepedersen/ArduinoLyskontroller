@@ -44,3 +44,4 @@ DMX-shieldet bruker UART, så du får ikke brukt Serial samtidig som DMX. Du må
 Når man styrer mange ting med én Arduino bør man unngå å bruke Delay. Jeg har brukt arduino-timer.h for å løse dette. 
 Jeg traff på en minnebegrensning når jeg prøvde å styre 3 lange LED-striper, så jeg koblet sammen to og to. Minnebegrensning er litt avhengig av antall dmx-kanaler man bruker. Ca 500 leds er begrensning uten dmx. 
 
+Prosjektet ble først implementert med en Bluetooth-modul og ArduinoBlue app for å styre lysene, men det ble raskt konkludert med at et komplett ferdig show med litt tilfeldigheter var mer hensiktsmessig. 
